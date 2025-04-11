@@ -1,6 +1,6 @@
 # PROVA_1BI
 
-?/ALTERNATIVAS 2:E  4:C 5:
+//ALTERNATIVAS de assinalar 2:E  4:C 5: C
 
 //1QUESTÃO
 function convert(metro){// o nome da função é convert, metro é a palavra reservada para o parametro
